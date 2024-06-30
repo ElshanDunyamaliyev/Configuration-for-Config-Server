@@ -3,7 +3,7 @@ build:
   env: "dev"
 
 accounts:
-  message: "Welcome to accounts ms develop"
+  message: "Welcome to accounts ms dev"
   contactDetails:
     name: "Elshan"
     email: "elshan@gmail.com"
